@@ -120,7 +120,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
   - Prototype and Prototypal Inheritance 
   - Memoisation  
   - Generator Functions  
-  - Event Loop , Mictrotasks, Macrotasks
+  - Event Loop , Microtasks, Macrotasks
   - [Events: DOMContentLoaded, load, beforeunload, unload](https://tilomitra.com/html-page-lifecycle-events/)
   - async/defer
   - [Polyfills](https://github.com/ghoshsuman845/js-polyfills) (Mostly asked polyfills : Promise, Promise.all, Promise.any, Promise.race, Promise.allSettled, call, apply, bind, map, reduce, filter, forEach, flat, fetch API)
